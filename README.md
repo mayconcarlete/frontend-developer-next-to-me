@@ -1,7 +1,10 @@
+## Frontend of project that I maded to show devs in your area, filtering by distance and languages.
+Check in my profile for Backend and mobile.
+
+![alt text](https://user-images.githubusercontent.com/6265325/72539476-1d6d3900-385e-11ea-9222-e93b2e60425d.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `yarn start`
